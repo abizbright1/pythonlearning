@@ -1,7 +1,7 @@
 class students:
     university = "latech"
     state = "louisiana"
-    def __init__(self, name, id, max1, max2,max3):
+    def __init__(self, name, id, max1, max2,max3, max4):
 
 
         self.name = name
@@ -9,6 +9,7 @@ class students:
         self.max1 = max1
         self.max2 = max2
         self.max3 = max3
+        self.max4 =max4
 
     def myfuntion(self):
         sum1 = (self.max3 + self.max2 + self.max1)/3
