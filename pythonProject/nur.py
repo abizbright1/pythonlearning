@@ -26,3 +26,4 @@ s2.update("grabmling")
 
 print(s1.name,students.university,"in the state of ", s1.state, "got",int(s1.myfuntion()),"%")
 print(s2.name,students.university,"in the state of ", s2.state, "got",int(s2.myfuntion()),"%")
+print("you pussy")
